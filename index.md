@@ -5,3 +5,5 @@ Btw Github is a site for code and stuff, and allows hosting a website for free :
 [HexGL](https://pastel-splash.github.io/HexGL/) (high speed racing)
 
 [Hextris](https://pastel-splash.github.io/hextris/) (tetris-inspired)
+
+[Flash games](https://pastel-splash.github.io/ruffle/) (made using ruffle demo site as a base)
