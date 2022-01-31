@@ -1,4 +1,5 @@
 Btw Github is a site for code and stuff, and allows hosting a website for free :)
+CS class stuff
 
 [Falling Blocks](https://pastel-splash.github.io/falling-blocks/) (a bad tetris clone)
 
